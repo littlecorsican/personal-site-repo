@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "^13.2.3",
+    "@react-three/drei": "^9.57.0",
+    "@react-three/fiber": "^8.11.6",
+    "@types/three": "^0.149.0",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "next": "13.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-three-fiber": "^6.0.13",
+    "stars-rating": "^1.1.0",
+    "three": "^0.150.1",
+    "three-css3drenderer": "^1.0.1",
+    "three-dom-elements": "^1.2.1"
+  }
+}
