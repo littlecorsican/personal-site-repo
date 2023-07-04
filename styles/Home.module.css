@@ -1,5 +1,7 @@
 .main {
   display: flex;
+  width : 100%;
+  overflow-x : scroll;
   padding: 6rem;
   min-height: 100vh;
 }
@@ -173,7 +175,11 @@
 /* Mobile */
 @media (max-width: 700px) {
   .content {
-    padding: 4rem;
+    padding: 3rem;
+  }
+
+  .main {
+    padding: 1rem;
   }
 
   .grid {
