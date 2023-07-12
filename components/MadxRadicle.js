@@ -22,6 +22,7 @@ export default function GlobalB2b(props) {
             <div className="company-headline">Achievement</div>
             <ul>
                 <li> Assist in setting up new cryptocurrency exchange site that went from $0.3 per coin to $146 in 6 months. </li>
+                <li> Built the KYC page, metric page, graphing, promotion , deposit, withdrawal page of the exchange. </li>
             </ul>
         </React.Fragment>
     )

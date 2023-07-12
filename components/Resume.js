@@ -152,8 +152,8 @@ export default function Resume() {
                         <h1>Work experience</h1>
                         <DropDown title="ExxonMobil (April 2022 - Present)" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="exxon" />
                         <DropDown title="Global B2B Consultancy (Sept 2020 - April 2022)" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="globalb2b" />
-                        <DropDown title="Madx Radicle Sdn Bhd ( March 2020 - Sep 2020 )" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="exxon"  />
-                        <DropDown title="AIA Shared Services ( May 2015 - Dec 2019 )" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="exxon"  />
+                        <DropDown title="Madx Radicle Sdn Bhd ( March 2020 - Sep 2020 )" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="madxradicle"  />
+                        <DropDown title="AIA Shared Services ( May 2015 - Dec 2019 )" adjustBackgroundOverlayHeight={adjustBackgroundOverlayHeight} content="aia"  />
                     </div>
                     <div className="underline"></div>
 

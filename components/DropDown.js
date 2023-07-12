@@ -5,10 +5,14 @@ import React, { createRef  } from "react";
 import Arrow from '@component/components/Arrow.js'
 import Exxon from '@component/components/Exxon.js'
 import GlobalB2b from '@component/components/GlobalB2b.js'
+import MadxRadicle from '@component/components/MadxRadicle.js'
+import AIA from '@component/components/AIA.js'
 
 const componentOf = {
 	exxon: <Exxon/>,
   globalb2b : <GlobalB2b />,
+  madxradicle : <MadxRadicle />,
+  aia : <AIA />,
 };
 
 const DynamicComponent =(props)=> {
