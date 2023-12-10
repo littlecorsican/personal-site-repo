@@ -119,6 +119,7 @@ export default function Resume() {
                         <li><EmailIcon /> <a href="mailto:gnomemage1990@gmail.com">gnomemage1990@gmail.com</a> </li>
                         <li><LinkedInIcon /> <a href="https://www.linkedin.com/in/yuxiang-c-054aba92/">https://www.linkedin.com/in/yuxiang-c-054aba92/</a> </li>
                         <li><GitHubIcon /> <a href="https://github.com/yxchanSNsoft">https://github.com/yxchanSNsoft</a> </li>
+                        <li><GitHubIcon /> <a href="https://github.com/littlecorsican">https://github.com/littlecorsican</a> </li>
                         <li><PhoneIcon /> 011-36429814 </li>
                         <li><AddressIcon /> Kuala Lumpur, Malaysia </li>
                     </ul>
